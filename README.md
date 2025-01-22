@@ -12,4 +12,5 @@ HTML: Structure of the page.
 CSS: Styling and layout.
 JavaScript: Handles the real-time clock functionality.
 
+
 ![Uploading image.png…]()
